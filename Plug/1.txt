@@ -3,8 +3,4 @@ lio
 shabo
 
 lior1234
-<<<<<<< HEAD
-lior2
-=======
-lior1
->>>>>>> 7a25d23de7ae7356e49982c5626086b563637ae9
+lior3
